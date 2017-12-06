@@ -1,0 +1,12 @@
+
+*.aux
+
+*.log
+
+*.toc
+
+*.pdf
+
+*.zip
+
+\.DS_Store
